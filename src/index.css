@@ -1,0 +1,45 @@
+.card-css {
+    width: 14rem;
+    height: 18rem;
+
+}
+
+.logo-css {
+    height: 2rem;
+    margin-block: auto;
+}
+
+.heart-css {
+    color: #FFD43B;
+}
+
+.detailedCard-css {
+    width: auto;
+}
+
+.scroll-css {
+    overflow-inline: scroll;
+    display: flex;
+    overflow-x: auto;
+    gap: 1rem;
+    padding: 1rem 0;
+    scroll-snap-type: x mandatory;
+}
+
+.card-img-css {
+    margin-top: 0.5rem;
+    margin-bottom: -1rem;
+    width: 9rem;
+    align-self: center;
+}
+
+.card-body-css {
+    display: flow;
+    align-content: end;
+}
+
+.detailed-img-css {
+
+    width: 25rem;
+
+}
